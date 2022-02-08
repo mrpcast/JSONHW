@@ -1,0 +1,35 @@
+{
+  "companyName" : "Convenience Castle",
+  "Objective" : "To provide you the customer a plethora of goods ranging from grocery to hardware and all in between",
+  "Founder" : "Mortimer S. Inures",
+  "locations" : "Valdosta, Ga",
+  "Employee of the month" : "Derek Baltin",
+  "Manager" : "Ruben Song",
+  "employees" : [
+  {
+    "name": "Sharon Wekins",
+    "gender": "female",
+    "position": "stocker",
+    },
+  {
+    "name": "Vanessa Smith",
+    "gender": "female",
+    "position": "cashier",
+    },
+  {
+    "name": "Charles Brown",
+    "gender": "male",
+    "position": "truck unloader",
+    },
+  { 
+    "name": "Sam Beckham",
+    "gender": "male",
+    "position": "janitor",
+    },
+  ]
+  "employeeOfTheYear" : [
+  {
+    "name": "Sam Beckham",
+    }
+    ]
+    
