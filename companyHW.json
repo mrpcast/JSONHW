@@ -9,21 +9,25 @@
     "name": "Sharon Wekins",
     "gender": "female",
     "position": "stocker",
+    "age": "43",
     },
   {
     "name": "Vanessa Smith",
     "gender": "female",
     "position": "cashier",
+    "age": "24",
     },
   {
     "name": "Charles Brown",
     "gender": "male",
     "position": "truck unloader",
+    "age": "32",
     },
   { 
     "name": "Sam Beckham",
     "gender": "male",
     "position": "janitor",
+    "age": "27",
     },
   ]
 }
